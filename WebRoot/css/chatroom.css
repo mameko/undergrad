@@ -1,0 +1,223 @@
+/* CSS Document */
+#round {
+	background-image: url(../img/1_2.png);
+	background-repeat: repeat-y;
+	position: absolute;
+	top: 57px;
+	left: 269px;
+	padding: 25px;
+	margin: 0 auto;
+	width: 498px;
+	height: 399px;
+}
+
+#top {
+	background-image: url(../img/1_1.png);
+	background-repeat: no-repeat;
+	background-position: left;
+	background-position: top;
+	width: 498px;
+	position: absolute;
+	top: 10px;
+	left: 250px;
+	padding: 20px 20px 0;
+	margin: 0;
+}
+
+#buttom {
+	width: 500px;
+	background-image: url(../img/1_3.png);
+	background-repeat: no-repeat;
+	background-position: left;
+	background-position: bottom;
+	position: absolute;
+	top: 490px;
+	left: 269px;
+	height: 50px;
+}
+
+#round2 {
+	background-image: url(../img/2_2.png);
+	background-repeat: repeat-y;
+	position: absolute;
+	top: 57px;
+	left: 269px;
+	padding: 25px;
+	margin: 0 auto;
+	width: 498px;
+	height: 399px;
+}
+
+#buttom2 {
+	width: 500px;
+	background-image: url(../img/2_3.png);
+	background-repeat: no-repeat;
+	background-position: left;
+	background-position: bottom;
+	position: absolute;
+	top: 490px;
+	left: 269px;
+	height: 50px;
+}
+
+#clientlisttitle {
+	position: absolute;
+	left: 780px;
+	top: 10px;
+	background-image: url(../img/2_1.png);
+	background-repeat: no-repeat;
+	background-position: left;
+	background-position: top;
+	width: 250px;
+}
+
+#displayarea {
+	width: 445px;
+	height: 285px;
+	background-color: #E8E8E8;
+	position: absolute;
+	top: 10px;
+	left: 26px;
+	border-style: solid;
+	border-color: #666666;
+	border-width: thin;
+}
+
+#chatfun {
+	left: 17px;
+	position: absolute;
+	top: 310px;
+}
+
+#mye {
+	width: 443px;
+	height: 83px;
+}
+
+#inputarea {
+	width: 445px;
+	height: 85px;
+	background-color: #E8E8E8;
+	position: absolute;
+	top: 340px;
+	left: 26px;
+	border-style: solid;
+	border-color: #666666;
+	border-width: thin;
+}
+
+#onlineclient {
+	width: 180px;
+	height: 220px;
+}
+
+#send {
+	position: absolute;
+	top: 435px;
+	left: 425px;
+	z-index: 50;
+}
+
+#clientlist {
+	background-image: url(../img/2_2.png);
+	background-repeat: repeat-y;
+	width: 204px;
+	height: 250px;
+	position: absolute;
+	top: 57px;
+	left: 796px;
+	z-index: 80;
+	border: 5px;
+	border-color: #66FFFF;
+	border-style: dashed;
+}
+
+#backlink {
+	position: absolute;
+	left: 925px;
+	top: 450px;
+}
+
+/*#back{
+	position:absolute;
+	left:930px;
+	top:460px;
+	display:none;
+	background-image:url(img/alphadia.png);
+	width:74px;
+	}*/
+a:link,a:visited {
+	text-decoration: none;
+	font: Tahoma;
+}
+
+a:hover {
+	font: Tahoma;
+	text-decoration: underline;
+}
+
+#invitation {
+	background-color: alicebule;
+	display: none;
+	position: absolute;
+	top: 480px;
+	left: 50px;
+}
+
+#invite {
+	background-color: alicebule;
+	display: none;
+	position: absolute;
+	top: 460px;
+	left: 50px;
+}
+
+#des {
+	background-color: alicebule;
+	height: 150px;
+	width: 150px;
+	display: none;
+	z-index: 99;
+}
+
+#functionlist {
+	position: absolute;
+	top: 350px;
+	left: 50px;
+	font-size: 24px;
+}
+
+#functions {
+	display: none;
+	position: absolute;
+	top: 370px;
+	left: 50px;
+}
+
+#upl {
+	display: none;
+	position: absolute;
+	top: 300px;
+	left: 50px;
+}
+
+#setfr {
+	display: none;
+	position: absolute;
+	top: 450px;
+	left: 50px;
+}
+
+#downl {
+	display: none;
+	position: absolute;
+	top: 420px;
+	left: 50px;
+}
+
+#facelist {
+	display:none;
+	left:482px;
+	position:absolute;
+	top:25px;
+}

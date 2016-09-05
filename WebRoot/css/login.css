@@ -1,0 +1,72 @@
+/* CSS Document */
+#logintable {
+	border: 1px;
+	border-style: dashed;
+	border-color: #999999;
+	border-width: medium;
+	display: none;
+	width: 244px;
+	height: 58px;
+	position: absolute;
+	top: 155px;
+	left: 300px;
+}
+
+#loginlink {
+	position: absolute;
+	top: 150px;
+	background-image: url(../img/alphadia.png);
+}
+
+a:visited  , a:link {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.a_text {
+	font-size: 46pt;
+	font-family: Tahoma;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 203px;
+	height: 80px;
+	text-align: center;
+}
+
+#registertable {
+	position: absolute;
+	left: 300px;
+	top: 300px;
+	border: 1px;
+	display: none;
+	z-index: 99;
+	border-style: dashed;
+	border-color: #999999;
+	border-width: medium;
+}
+
+/*#description{
+width:100px;
+height:200px;}
+*/
+#register {
+	position: absolute;
+	background-image: url(../img/alphadia.png);
+	top: 300px;
+}
+
+#message {
+	width: 150px;
+	height: 80px;
+	position: absolute;
+	top: 280px;
+	left: 700px;
+	display: none;
+	z-index: 99;
+}

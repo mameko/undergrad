@@ -1,0 +1,168 @@
+/* CSS Document */
+a:link {
+	color: #000000;
+}
+
+a:visited {
+	color: #000000;
+}
+
+#chatroom1 {
+	background-image: url(../img/chatroom1.jpg);
+	background-repeat: no-repeat;
+	display: none;
+	position: absolute;
+	left: 10px;
+	top: 10px;
+}
+
+#chatroom2 {
+	background-image: url(../img/chatroom2.jpg);
+	background-repeat: no-repeat;
+	display: none;
+	position: absolute;
+	left: 10px;
+	top: 100px;
+}
+
+#chatroom3 {
+	background-image: url(../img/chatroom3.jpg);
+	background-repeat: no-repeat;
+	display: none;
+	position: absolute;
+	left: 10px;
+	top: 190px;
+}
+
+#chatroom4 {
+	background-image: url(../img/chatroom4.jpg);
+	background-repeat: no-repeat;
+	display: none;
+	position: absolute;
+	left: 10px;
+	top: 280px;
+}
+
+#chatroom5 {
+	background-image: url(../img/chatroom5.jpg);
+	background-repeat: no-repeat;
+	display: none;
+	position: absolute;
+	left: 10px;
+	top: 370px;
+}
+
+.a_text {
+	font-size: 46pt;
+	font-family: Tahoma;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#detail {
+	width: 380px;
+	height: 250px;
+	position: absolute;
+	top: 300px;
+	left: 600px;
+	display: none;
+	z-index: 99;
+}
+
+div {
+	display: none;
+}
+
+#back {
+	background-image: url(../img/alphadia.png);
+	background-repeat: no-repeat;
+	display: none;
+	position: absolute;
+	left: 10px;
+	top: 460px;
+}
+
+a:link,a:visited {
+	text-decoration: none;
+	font: Tahoma;
+	color: #000000;
+}
+
+a:hover {
+	font: Tahoma;
+	text-decoration: underline;
+}
+
+#upperuserroom {
+	background-color: aliceblue;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 35px;
+	display: block;
+	left: 800px;
+	padding: 5px;
+}
+
+#messagebox {
+	background-color: aliceblue;
+	height: 60px;
+	left: 430px;
+	position: absolute;
+	top: 160px;
+	width: 200px;
+	padding: 5px;
+}
+
+#room {
+	background-color: aliceblue;
+	height: 165px;
+	left: 390px;
+	position: absolute;
+	top: 250px;
+	width: 300px;
+	padding: 5px;
+}
+
+#addordel_r {
+	font: Tahoma;
+	background-color: aliceblue;
+	font-size: 36px;
+	display: block;
+	height: 50px;
+	left: 390px;
+	position: absolute;
+	top: 490px;
+	width: 200px;
+}
+
+#changeinfotable {
+	position: absolute;
+	left: 390px;
+	top: 10px;
+	border: 1px;
+	display: none;
+	z-index: 99;
+	border-style: dashed;
+	border-color: #999999;
+	border-width: medium;
+}
+
+#changeinfo{
+	background-color: aliceblue;
+	position: absolute;
+	left: 450px;
+	top:  10px;
+	border: 1px;
+	z-index: 99;
+}
+
+#roomtodel{
+	background-color: aliceblue;
+	position: absolute;
+	top: 400px;
+	left: 500px;
+	width: 50px;
+}
