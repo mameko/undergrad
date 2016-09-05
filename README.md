@@ -1,2 +1,2 @@
 # undergrad
-some of the projects done during undergrad
+some of the projects I have done during undergrad.
